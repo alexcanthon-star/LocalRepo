@@ -1,5 +1,9 @@
  my-project
 This is my first Local repo file
+<<<<<<< HEAD
 this is for feature(box)
+=======
+this is for feature1(button)
+>>>>>>> Main
 <br>
 Author: AlexCathon
